@@ -1,6 +1,6 @@
 # React Expense Tracker
 
-This is a simple React.js application which tracks a list of expenses entered by the user. This project is still in progress and I implementing an Express.js backend following the MERN stack.
+This is a simple React.js application which tracks a list of expenses entered by the user. This project is still in progress. I am currently implementing an Express.js backend following the MERN stack.
 
 ## Improvements and New Features
 
